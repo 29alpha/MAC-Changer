@@ -1,0 +1,13 @@
+C:\workspace\code\MacChanger\MacChanger\bin\Debug\MacChanger.exe.config
+C:\workspace\code\MacChanger\MacChanger\bin\Debug\MacChanger.exe
+C:\workspace\code\MacChanger\MacChanger\bin\Debug\MacChanger.pdb
+C:\workspace\code\MacChanger\MacChanger\obj\Debug\MacChanger.Form1.resources
+C:\workspace\code\MacChanger\MacChanger\obj\Debug\MacChanger.Properties.Resources.resources
+C:\workspace\code\MacChanger\MacChanger\obj\Debug\MacChanger.csproj.GenerateResource.Cache
+C:\workspace\code\MacChanger\MacChanger\obj\Debug\MacChanger.exe
+C:\workspace\code\MacChanger\MacChanger\obj\Debug\MacChanger.pdb
+C:\workspace\code\MacChanger\MacChanger\obj\Debug\MacChanger.csprojResolveAssemblyReference.cache
+C:\workspace\code\MacChanger\MacChanger\bin\Debug\MacChanger.exe.manifest
+C:\workspace\code\MacChanger\MacChanger\bin\Debug\MacChanger.application
+C:\workspace\code\MacChanger\MacChanger\obj\Debug\MacChanger.exe.manifest
+C:\workspace\code\MacChanger\MacChanger\obj\Debug\MacChanger.application
